@@ -33,7 +33,9 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "dbaeumer.vscode-eslint",
-        "divyanshu013.vscode-material-darker"
+        "divyanshu013.vscode-material-darker",
+        "pomdtr.excalidraw-editor",
+        "figma.figma-vscode-extension"
       ],
       "settings": {
         "editor.formatOnSave": true,
